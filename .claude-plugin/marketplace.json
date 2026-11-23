@@ -1,0 +1,18 @@
+{
+  "name": "trendguru",
+  "owner": {
+    "name": "TrendGuru",
+    "url": "https://trend.guru"
+  },
+  "metadata": {
+    "description": "TrendGuru social media workflows for AI agents: trend radar, AI copies of trends, Studio videos and carousels, cross-posting and analytics through the TrendGuru MCP server."
+  },
+  "plugins": [
+    {
+      "name": "trendguru",
+      "source": "./",
+      "description": "Trend radar, AI copies of trending videos, Studio videos and carousels, cross-posting to six networks, performance reviews and content plans through the TrendGuru MCP server.",
+      "version": "1.0.0"
+    }
+  ]
+}

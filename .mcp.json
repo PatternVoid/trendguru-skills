@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trendguru": {
+      "type": "http",
+      "url": "https://trend.guru/api/mcp"
+    }
+  }
+}

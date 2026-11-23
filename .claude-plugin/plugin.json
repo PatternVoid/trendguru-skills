@@ -1,0 +1,25 @@
+{
+  "name": "trendguru",
+  "description": "Social media workflows for AI agents on top of the TrendGuru MCP server: trend radar briefs, AI copies of trending videos, Studio videos and carousels reviewed stage by stage, cross-posting to Instagram, TikTok, YouTube, Facebook, X and LinkedIn, performance reviews and weekly content plans.",
+  "version": "1.0.0",
+  "author": {
+    "name": "TrendGuru",
+    "url": "https://trend.guru"
+  },
+  "homepage": "https://trend.guru/mcp",
+  "repository": "https://github.com/PatternVoid/trendguru-skills",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "mcp",
+    "tiktok",
+    "instagram",
+    "youtube-shorts",
+    "trends",
+    "content-creation",
+    "publishing",
+    "carousel"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://trend.guru/privacy/"
+}
