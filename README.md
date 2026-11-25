@@ -9,14 +9,14 @@ Your agent finds what is taking off in your niche, remakes it as your own video 
 Claude Code plugin (skills and the MCP server in one step):
 
 ```bash
-/plugin marketplace add PatternVoid/trendguru-skills
+/plugin marketplace add PatternVoid/TrendGuru-Skills
 /plugin install trendguru@trendguru
 ```
 
 Any agent with Agent Skills support:
 
 ```bash
-npx skills add PatternVoid/trendguru-skills
+npx skills add PatternVoid/TrendGuru-Skills
 ```
 
 Then connect the MCP server if your agent does not have it yet:
